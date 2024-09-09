@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practiceWebApiProject\\ApiApplication\\ApiApplication.csproj": {}
+    "/Users/shabatiq11/Desktop/learn_github/first_time/asp.net_WebApiProject/ApiApplication/ApiApplication.csproj": {}
   },
   "projects": {
-    "D:\\practiceWebApiProject\\ApiApplication\\ApiApplication.csproj": {
+    "/Users/shabatiq11/Desktop/learn_github/first_time/asp.net_WebApiProject/ApiApplication/ApiApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practiceWebApiProject\\ApiApplication\\ApiApplication.csproj",
+        "projectUniqueName": "/Users/shabatiq11/Desktop/learn_github/first_time/asp.net_WebApiProject/ApiApplication/ApiApplication.csproj",
         "projectName": "ApiApplication",
-        "projectPath": "D:\\practiceWebApiProject\\ApiApplication\\ApiApplication.csproj",
-        "packagesPath": "C:\\Users\\SHAB322\\.nuget\\packages\\",
-        "outputPath": "D:\\practiceWebApiProject\\ApiApplication\\obj\\",
+        "projectPath": "/Users/shabatiq11/Desktop/learn_github/first_time/asp.net_WebApiProject/ApiApplication/ApiApplication.csproj",
+        "packagesPath": "/Users/shabatiq11/.nuget/packages/",
+        "outputPath": "/Users/shabatiq11/Desktop/learn_github/first_time/asp.net_WebApiProject/ApiApplication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SHAB322\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/shabatiq11/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -92,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
