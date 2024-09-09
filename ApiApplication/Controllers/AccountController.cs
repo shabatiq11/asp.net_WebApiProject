@@ -12,19 +12,19 @@ public class AccountController : ControllerBase
     private readonly IConfiguration _configuration;
     public AccountController(
         UserManager<AppUser> userManager,
-        RoleManager<IdentityRole> roleManager, 
+        RoleManager<IdentityRole> roleManager,
         IConfiguration configuration
         )
     {
         _roleManager = roleManager;
         _userManager = userManager;
         _configuration = configuration;
-    }  
+    }
 
-    [HttpGet]   
-    public async Task<ActionResult<string>> Index()
+    [HttpGet]
+    public string Index()
     {
-        var user = await _userManager.FindByNameAsync("");
-        return Ok();
+
+        return "This is my main hero";
     }
 }
